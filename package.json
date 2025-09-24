@@ -1,5 +1,5 @@
 {
-  "name": "aluno",
+  "name": "classlist",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,9 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwindcss": "^4.1.13"
+  },
+  "author": {
+    "name": "Geovana Cardoso Silva e Vinicius de Luca Prado"
   },
   "devDependencies": {
     "@eslint/js": "^9.29.0",
