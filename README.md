@@ -25,10 +25,10 @@ Sistema web para cadastro e gerenciamento de alunos, desenvolvido como projeto a
 Siga os passos abaixo para instalar e rodar a aplicação em seu ambiente local.
 
 1.  **Clone o repositório:**
-    git clone <URL_DO_SEU_REPOSITÓRIO>
+    git clone <https://github.com/viniciuslprado/ClassList>
 
 2.  **Navegue até a pasta do projeto:**
-    cd <nome-do-seu-projeto>
+    cd <ClassList>
 
 3.  **Instale as dependências:**
     npm install
